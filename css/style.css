@@ -141,7 +141,19 @@ button:active{
         background-repeat: no-repeat;
     }
     main{
-        width: 375px;
+        width: 450px;
+    }
+
+    .description{
+        padding: 0 5rem;
+    }
+
+    .subscribe{
+        padding: 0 3rem;
+    }
+
+    .button{
+        margin: 0 3rem;
     }
 }
 
